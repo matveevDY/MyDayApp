@@ -1,0 +1,222 @@
+
+/* Class = "UITableViewSection"; headerTitle = "Период анализа данных"; ObjectID = "04Y-ar-oOX"; */
+"04Y-ar-oOX.headerTitle" = "Период анализа данных";
+
+/* Class = "UINavigationItem"; title = "Измерения"; ObjectID = "0Ub-6N-EV5"; */
+"0Ub-6N-EV5.title" = "Измерения";
+
+/* Class = "UIViewController"; title = "Неделя"; ObjectID = "1bj-Iy-WEF"; */
+"1bj-Iy-WEF.title" = "Неделя";
+
+/* Class = "UILabel"; text = "0000,00"; ObjectID = "1dB-QB-y5a"; */
+"1dB-QB-y5a.text" = "0000,00";
+
+/* Class = "UILabel"; text = "Максимум"; ObjectID = "2Cx-qh-j94"; */
+"2Cx-qh-j94.text" = "Максимум";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2EH-wW-wfA"; */
+"2EH-wW-wfA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "3TE-qp-CZw"; */
+"3TE-qp-CZw.text" = "id";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "4v7-5A-kn6"; */
+"4v7-5A-kn6.text" = "1";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "5MR-Jo-QRj"; */
+"5MR-Jo-QRj.text" = "0.0";
+
+/* Class = "UILabel"; text = "Минимум"; ObjectID = "6M1-fK-Xol"; */
+"6M1-fK-Xol.text" = "Минимум";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "7lH-M6-VOQ"; */
+"7lH-M6-VOQ.text" = "0.0";
+
+/* Class = "UITextField"; placeholder = "Дата окончания"; ObjectID = "8EW-ri-Qfx"; */
+"8EW-ri-Qfx.placeholder" = "Дата окончания";
+
+/* Class = "UIBarButtonItem"; title = "Сохранить"; ObjectID = "8ad-cP-yhd"; */
+"8ad-cP-yhd.title" = "Сохранить";
+
+/* Class = "UITableViewSection"; headerTitle = "Период действия задачи"; ObjectID = "8sz-TU-sSW"; */
+"8sz-TU-sSW.headerTitle" = "Период действия задачи";
+
+/* Class = "UITextField"; placeholder = "Дата начала"; ObjectID = "9On-hn-rEh"; */
+"9On-hn-rEh.placeholder" = "Дата начала";
+
+/* Class = "UILabel"; text = "0000,0"; ObjectID = "BbI-bn-ZqF"; */
+"BbI-bn-ZqF.text" = "0000,0";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "EdR-uX-haU"; */
+"EdR-uX-haU.text" = "1";
+
+/* Class = "UITextField"; placeholder = "Название задачи"; ObjectID = "FfF-99-tcG"; */
+"FfF-99-tcG.placeholder" = "Название задачи";
+
+/* Class = "UILabel"; text = "Максимум"; ObjectID = "HbE-GS-KLM"; */
+"HbE-GS-KLM.text" = "Максимум";
+
+/* Class = "UILabel"; text = "00 декабря 0000 г."; ObjectID = "IFf-gJ-Xrf"; */
+"IFf-gJ-Xrf.text" = "00 декабря 0000 г.";
+
+/* Class = "UINavigationItem"; title = "Новый анализ"; ObjectID = "KFw-ex-yJq"; */
+"KFw-ex-yJq.title" = "Новый анализ";
+
+/* Class = "UILabel"; text = "Воскресенье"; ObjectID = "Kwc-0J-Lgc"; */
+"Kwc-0J-Lgc.text" = "Воскресенье";
+
+/* Class = "UINavigationItem"; title = "Заметки"; ObjectID = "LxI-43-CUF"; */
+"LxI-43-CUF.title" = "Заметки";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "Mnz-nv-Ora"; */
+"Mnz-nv-Ora.text" = "id";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "NgI-nR-DwR"; */
+"NgI-nR-DwR.text" = "0.0";
+
+/* Class = "UILabel"; text = "taskName"; ObjectID = "NsN-W8-tR8"; */
+"NsN-W8-tR8.text" = "taskName";
+
+/* Class = "UILabel"; text = "⟩"; ObjectID = "O4Q-QR-ADA"; */
+"O4Q-QR-ADA.text" = "⟩";
+
+/* Class = "UINavigationItem"; title = "Задачи"; ObjectID = "OMu-NH-1xv"; */
+"OMu-NH-1xv.title" = "Задачи";
+
+/* Class = "UIViewController"; title = "Оповещения"; ObjectID = "PEZ-jQ-VaH"; */
+"PEZ-jQ-VaH.title" = "Оповещения";
+
+/* Class = "UITextField"; placeholder = "Название задачи"; ObjectID = "QNP-hh-5ba"; */
+"QNP-hh-5ba.placeholder" = "Название задачи";
+
+/* Class = "UILabel"; text = "min"; ObjectID = "Rdd-yU-ao1"; */
+"Rdd-yU-ao1.text" = "min";
+
+/* Class = "UILabel"; text = "0000,0"; ObjectID = "Ujy-rv-l2m"; */
+"Ujy-rv-l2m.text" = "0000,0";
+
+/* Class = "UILabel"; text = "⟩"; ObjectID = "X4v-qL-AU3"; */
+"X4v-qL-AU3.text" = "⟩";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "ZoY-99-teg"; */
+"ZoY-99-teg.text" = "id";
+
+/* Class = "UITextField"; placeholder = "Дата окончания"; ObjectID = "Zv9-T7-PdO"; */
+"Zv9-T7-PdO.placeholder" = "Дата окончания";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "aLD-YG-ehY"; */
+"aLD-YG-ehY.text" = "0.0";
+
+/* Class = "UILabel"; text = "Количество повторений"; ObjectID = "cY0-Tu-z40"; */
+"cY0-Tu-z40.text" = "Количество повторений";
+
+/* Class = "UITableViewSection"; headerTitle = "Задача"; ObjectID = "cfO-Od-lao"; */
+"cfO-Od-lao.headerTitle" = "Задача";
+
+/* Class = "UIButton"; normalTitle = "Настройка оповещений"; ObjectID = "czG-mP-DsI"; */
+"czG-mP-DsI.normalTitle" = "Настройка оповещений";
+
+/* Class = "UILabel"; text = "id"; ObjectID = "dRW-oV-rhY"; */
+"dRW-oV-rhY.text" = "id";
+
+/* Class = "UIButton"; normalTitle = "Создать"; ObjectID = "dg6-ia-j5y"; */
+"dg6-ia-j5y.normalTitle" = "Создать";
+
+/* Class = "UILabel"; text = "Измерения"; ObjectID = "dtd-FC-QjS"; */
+"dtd-FC-QjS.text" = "Измерения";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dwI-cd-s3j"; */
+"dwI-cd-s3j.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Сегодня"; ObjectID = "fqs-3c-ayD"; */
+"fqs-3c-ayD.title" = "Сегодня";
+
+/* Class = "UILabel"; text = "Среднее"; ObjectID = "gCA-rV-rXY"; */
+"gCA-rV-rXY.text" = "Среднее";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "jLV-KI-W6W"; */
+"jLV-KI-W6W.text" = "0.0";
+
+/* Class = "UILabel"; text = "Измерение"; ObjectID = "jUt-qF-uUr"; */
+"jUt-qF-uUr.text" = "Измерение";
+
+/* Class = "UILabel"; text = "max"; ObjectID = "jZi-fv-F8A"; */
+"jZi-fv-F8A.text" = "max";
+
+/* Class = "UITextField"; text = "Добавить"; ObjectID = "kcE-V3-Kt8"; */
+"kcE-V3-Kt8.text" = "Добавить";
+
+/* Class = "UILabel"; text = "0000,0"; ObjectID = "ksR-SD-8dX"; */
+"ksR-SD-8dX.text" = "0000,0";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "lH6-AC-ELN"; */
+"lH6-AC-ELN.text" = "0.0";
+
+/* Class = "UINavigationItem"; title = "Анализ"; ObjectID = "m5j-Nf-AqE"; */
+"m5j-Nf-AqE.title" = "Анализ";
+
+/* Class = "UITextField"; placeholder = "Дата начала"; ObjectID = "n5l-5t-Rng"; */
+"n5l-5t-Rng.placeholder" = "Дата начала";
+
+/* Class = "UILabel"; text = "mesure"; ObjectID = "nPD-6c-b4V"; */
+"nPD-6c-b4V.text" = "mesure";
+
+/* Class = "UILabel"; text = "Оповещения"; ObjectID = "oQE-cW-Baz"; */
+"oQE-cW-Baz.text" = "Оповещения";
+
+/* Class = "UILabel"; text = "mesure"; ObjectID = "og1-Gt-Rs6"; */
+"og1-Gt-Rs6.text" = "mesure";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "pkO-5O-LSO"; */
+"pkO-5O-LSO.text" = "00:00";
+
+/* Class = "UILabel"; text = "Измерение"; ObjectID = "qML-cH-WZx"; */
+"qML-cH-WZx.text" = "Измерение";
+
+/* Class = "UIViewController"; title = "Заметка"; ObjectID = "qXT-2K-Kjh"; */
+"qXT-2K-Kjh.title" = "Заметка";
+
+/* Class = "UINavigationItem"; title = "Новая задача"; ObjectID = "qeS-G3-1fR"; */
+"qeS-G3-1fR.title" = "Новая задача";
+
+/* Class = "UILabel"; text = "count of repeats"; ObjectID = "rDH-S1-eOH"; */
+"rDH-S1-eOH.text" = "count of repeats";
+
+/* Class = "UILabel"; text = "avg"; ObjectID = "rSS-n9-SSY"; */
+"rSS-n9-SSY.text" = "avg";
+
+/* Class = "UILabel"; text = "Минимум"; ObjectID = "rcH-iE-wlJ"; */
+"rcH-iE-wlJ.text" = "Минимум";
+
+/* Class = "UISegmentedControl"; rqf-zP-ISd.segmentTitles[0] = "2"; ObjectID = "rqf-zP-ISd"; */
+"rqf-zP-ISd.segmentTitles[0]" = "2";
+
+/* Class = "UISegmentedControl"; rqf-zP-ISd.segmentTitles[1] = "3"; ObjectID = "rqf-zP-ISd"; */
+"rqf-zP-ISd.segmentTitles[1]" = "3";
+
+/* Class = "UISegmentedControl"; rqf-zP-ISd.segmentTitles[2] = "4"; ObjectID = "rqf-zP-ISd"; */
+"rqf-zP-ISd.segmentTitles[2]" = "4";
+
+/* Class = "UISegmentedControl"; rqf-zP-ISd.segmentTitles[3] = "5"; ObjectID = "rqf-zP-ISd"; */
+"rqf-zP-ISd.segmentTitles[3]" = "5";
+
+/* Class = "UILabel"; text = "taskName"; ObjectID = "stF-5c-i0K"; */
+"stF-5c-i0K.text" = "taskName";
+
+/* Class = "UIButton"; normalTitle = "Настройка недели"; ObjectID = "uwO-TU-H0Y"; */
+"uwO-TU-H0Y.normalTitle" = "Настройка недели";
+
+/* Class = "UIButton"; normalTitle = "Сформировать"; ObjectID = "vvk-lM-hvh"; */
+"vvk-lM-hvh.normalTitle" = "Сформировать";
+
+/* Class = "UITableViewSection"; footerTitle = "Задача считается завершенной после выполнения всех повторений. "; ObjectID = "wDr-Py-EPi"; */
+"wDr-Py-EPi.footerTitle" = "Задача считается завершенной после выполнения всех повторений. ";
+
+/* Class = "UITableViewSection"; headerTitle = "Параметры задачи"; ObjectID = "wDr-Py-EPi"; */
+"wDr-Py-EPi.headerTitle" = "Параметры задачи";
+
+/* Class = "UILabel"; text = "Среднее"; ObjectID = "z2s-FA-ST1"; */
+"z2s-FA-ST1.text" = "Среднее";
+
+/* Class = "UILabel"; text = "Повторения"; ObjectID = "zxS-E0-yR3"; */
+"zxS-E0-yR3.text" = "Повторения";
